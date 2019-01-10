@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// --------------------------------------------
+// 
 // Datei:			M403_7742_Satelit
 // Datum:			06.12.2018
 // Ersteller:		Wildi Juri (Hypothekarbank Lenzburg AG)
@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 // Beschreibung:    
 //
 // This program calculats the travel time for a satalite with a given travel height. 
-// --------------------------------------------
+//
 
 namespace Satelliten_Aufgabe
 {
